@@ -1,0 +1,10 @@
+secrets/
+*-token
+*.token
+hf-token
+*.part
+*.gguf
+logs/
+__pycache__/
+*.pyc
+.env*
